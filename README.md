@@ -11,7 +11,7 @@ This project demonstrates my expertise in:
 - **Data Cleaning & ETL using Python and SQL**  
 - **Healthcare Analytics & Trend Reporting**
 
-![Dashboard Overview](healthcare_dashboard.png)
+![Dashboard Overview](docs/healthcare_dashboard.png)
 
 ---
 
@@ -73,7 +73,7 @@ A fully interactive **Power BI dashboard** that:
 
 ## 🗂 Data Model & Metrics  
 
->![Data Model](healthcare_datamodelling.png)
+![Data Model](docs/healthcare_datamodelling.png)
 
 **Core metrics:**
 - **Members Eligible for Screening**
